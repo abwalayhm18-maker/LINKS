@@ -1,0 +1,11 @@
+{
+  "name": "تأمين السيارات",
+  "short_name": "تأمين",
+  "description": "روابط التأمين على السيارات - حماية شاملة لسيارتك",
+  "start_url": "/",
+  "display": "standalone",
+  "dir": "rtl",
+  "lang": "ar",
+  "background_color": "#0a1628",
+  "theme_color": "#0a1628"
+}
