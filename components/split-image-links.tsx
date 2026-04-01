@@ -7,7 +7,7 @@ const links = [
   {
     label: "تأمين شامل",
     description: "تغطية كاملة لجميع الأضرار",
-    href: "https://app.lizsxl.com",
+    href: "https://app.wpoue.com",
     badge: "الأكثر طلباً",
     icon: (
       <svg
