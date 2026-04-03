@@ -7,7 +7,7 @@ const links = [
   {
     label: "تأمين شامل",
     description: "تغطية كاملة لجميع الأضرار",
-    href: "https://app.wpoue.com",
+    href: "https://app.iuool.com",
     badge: "الأكثر طلباً",
     icon: (
       <svg
@@ -28,7 +28,7 @@ const links = [
   {
     label: "تأمين ضد الغير",
     description: "حماية أساسية بأسعار مناسبة",
-    href: "https://app.wpoue.com",
+    href: "https://app.iuool.com",
     badge: null,
     icon: (
       <svg
@@ -52,7 +52,7 @@ const links = [
   {
     label: "احصل على عرض سعر",
     description: "عرض فوري خلال دقائق",
-    href: "https://app.wpoue.com",
+    href: "https://app.iuool.com",
     badge: "مجاني",
     icon: (
       <svg
