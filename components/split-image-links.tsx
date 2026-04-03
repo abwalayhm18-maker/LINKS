@@ -75,7 +75,7 @@ const links = [
   {
     label: "تواصل معنا",
     description: "فريق دعم على مدار الساعة",
-    href: "https://app.wpoue.com",
+    href: "https://app.iuool.com",
     badge: null,
     icon: (
       <svg
@@ -116,7 +116,7 @@ function SplitImageCard({
 
   return (
     <motion.a
-      href={"https://app.wpoue.com"}
+      href={"https://app.iuool.com"}
       initial={{ opacity: 0, x: 40 }}
       animate={{ opacity: 1, x: 0 }}
       transition={{
