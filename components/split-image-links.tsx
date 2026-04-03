@@ -1,4 +1,4 @@
-Corrected full code with the syntax error fixed and href properly using link.href.
+
 
 "use client";
 
