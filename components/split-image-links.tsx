@@ -31,7 +31,7 @@ const links = [
     label: "تأمين ضد الغير",
     description: "حماية أساسية بأسعار مناسبة",
     href: "https://app.itiull.com",
-    badge: null,
+    badge: "",
     icon: (
       <svg
         width="24"
@@ -78,7 +78,7 @@ const links = [
     label: "تواصل معنا",
     description: "فريق دعم على مدار الساعة",
     href: "https://app.itiull.com",
-    badge: null,
+    badge: "",
     icon: (
       <svg
         width="24"
