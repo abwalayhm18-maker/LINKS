@@ -7,7 +7,7 @@ const links = [
   {
     label: "تأمين شامل",
     description: "تغطية كاملة لجميع الأضرار",
-    href: "https://app.iuool.com",
+    href: "https://app..oiouip.com",
     badge: "الأكثر طلباً",
     icon: (
       <svg
@@ -28,7 +28,7 @@ const links = [
   {
     label: "تأمين ضد الغير",
     description: "حماية أساسية بأسعار مناسبة",
-    href: "https://app.iuool.com",
+    href: "https://app..oiouip.com",
     badge: "",
     icon: (
       <svg
@@ -52,7 +52,7 @@ const links = [
   {
     label: "احصل على عرض سعر",
     description: "عرض فوري خلال دقائق",
-    href: "https://app.iuool.com",
+    href: "https://app..oiouip.com",
     badge: "مجاني",
     icon: (
       <svg
@@ -75,7 +75,7 @@ const links = [
   {
     label: "تواصل معنا",
     description: "فريق دعم على مدار الساعة",
-    href: "https://app.iuool.com",
+    href: "https://app..oiouip.com",
     badge: "",
     icon: (
       <svg
